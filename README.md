@@ -4,7 +4,7 @@
             <h1>May's Restaurant</h1>
 			<hr />
 		<nav>
-			<p><i><a href="home.html">home</a>   <a href="Menu.html">Menu</a>   <a href=Contact Us.html>Contact Us</a></i></p>
+			<p><i><a href="Home.html">Home</a>   <a href="Menu.html">Menu</a>   <a href=Contact Us.html>Contact Us</a></i></p>
 			<hr/>
 		</nav>
 		<img src="C:/Repos/portfolio/south-station-4927286_640(1).jpg"
