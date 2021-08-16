@@ -2,10 +2,10 @@
     <main> 
         <header> 
 		<style>
-			header {
-				background-color: green;
-				color: red;
-				}
+header {
+    background-color: darkgreen;
+    color: white;
+}
 		</style>
             <h1>May's Restaurant</h1>
 			<hr />
