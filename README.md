@@ -2,12 +2,7 @@
     <main> 
         <header> 
             <h1>May's Restaurant</h1>
-		<style>
-		header {
-    background-color: darkgreen;
-    color: white;
-}
-		</style>
+		
 			<hr />
 		<nav>
 			<p><i><a href="Home    .html">Home    </a>   <a href="Menu    .html">Menu    </a>   <a href=Contact Us    .html>Contact Us</a></i></p>
