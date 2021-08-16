@@ -9,7 +9,7 @@
 			<style>
 				header {
 				background-color: green;
-				color: red
+				color: red;
 				}
 			</style>
 		</nav>
